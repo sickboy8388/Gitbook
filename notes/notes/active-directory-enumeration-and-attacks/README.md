@@ -26,3 +26,22 @@
 [6.-deeper-down-the-rabbit-hole](6.-deeper-down-the-rabbit-hole/)
 {% endcontent-ref %}
 
+{% content-ref url="7.cooking-with-fire/" %}
+[7.cooking-with-fire](7.cooking-with-fire/)
+{% endcontent-ref %}
+
+{% content-ref url="8.-an-ace-in-the-hole/" %}
+[8.-an-ace-in-the-hole](8.-an-ace-in-the-hole/)
+{% endcontent-ref %}
+
+{% content-ref url="9.stacking-the-deck/" %}
+[9.stacking-the-deck](9.stacking-the-deck/)
+{% endcontent-ref %}
+
+{% content-ref url="10.why-so-trusting/" %}
+[10.why-so-trusting](10.why-so-trusting/)
+{% endcontent-ref %}
+
+{% content-ref url="11.defensive-considerations/" %}
+[11.defensive-considerations](11.defensive-considerations/)
+{% endcontent-ref %}
