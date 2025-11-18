@@ -1,2 +1,0 @@
-# Methodology & Lab Environment
-
